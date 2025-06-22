@@ -10,5 +10,6 @@ jbang --fresh setup@jabrena init --cursor https://github.com/jabrena/cursor-rule
 ![](./docs/too-long-messages.png)
 
 ```bash
-Your message is too long. Please try again with a shorter message and fewer/smaller attached items.
+Your message is too long. 
+Please try again with a shorter message and fewer/smaller attached items.
 ```
