@@ -72,7 +72,7 @@ alwaysApply: false
 
 ![](./manual.png)
 
-In order to minimize the context weight, it is necessary to put the scope as manual, but the UX is not clear, I have the impression that the structure require a new property to define explicitely the scope:
+but the mssage is not clear. In order to minimize the context weight, it is necessary to put the scope as manual, but the UX is not clear, I have the impression that the structure require a new property to define explicitely the scope:
 
 ```bash
 ---
@@ -82,6 +82,8 @@ alwaysApply: false #To be deprecated
 scope: always | auto | agent-requested | manual
 ---
 ```
+
+## Proposal
 
 A new property in the metadata section for cursor rules could help to be more consistent the UX with the cursor rule documents (.mdc)
 
