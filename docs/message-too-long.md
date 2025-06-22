@@ -25,9 +25,9 @@ The Java class is a target to be affected by 14 cursor rules;
 
 ![](./rules-affected.png)
 
-with a total weight around 100k
+with a total weight around 100k and this situation trigger this bad situation for the developer.
 
-A cursor rule can have the following scopes:
+Reviewing the cursor rule scopes:
 
 ![](./cursor-rules-scopes.png)
 
