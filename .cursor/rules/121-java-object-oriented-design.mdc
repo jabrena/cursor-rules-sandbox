@@ -1,6 +1,6 @@
 ---
 description: Java Object-Oriented Design Guidelines
-globs: **/*.java
+globs: 
 alwaysApply: false
 ---
 # Java Object-Oriented Design Guidelines
