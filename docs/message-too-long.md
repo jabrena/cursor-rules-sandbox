@@ -10,9 +10,9 @@ When you open a new Chat window and the repository has enabled several cursor ru
 Can you improve this test? MainApplicationAcceptanceIT
 ```
 
-![](./too-long-messages.png)
-
 **Response:**
+
+![](./too-long-messages.png)
 
 ```bash
 Your message is too long. 
