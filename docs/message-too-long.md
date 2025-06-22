@@ -150,11 +150,8 @@ Directory structure:
 - Files analyzed: 9
 - Estimated tokens: 38.7k
 
-## How to reproduce
+## How to reproduce the scenario
 
-```bash
-sdk install jbang
-# Add cursor rules for Java & Spring Boot in ./cursor/rules
-jbang --fresh setup@jabrena init --cursor https://github.com/jabrena/cursor-rules-java
-jbang --fresh setup@jabrena init --cursor https://github.com/jabrena/cursor-rules-spring-boot
-```
+Use this repository, open a new chat, attach the Test: `MainApplicationAcceptanceIT` and type: `Can you improve this test? @MainApplicationAcceptanceIT`
+
+**Note:** The cursor rules are included in the repository
