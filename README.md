@@ -1,6 +1,6 @@
 # Cursor rules sandbox
 
-## Motivation
+## Motivation
 
 This repository tries to document Edge Cases discovered in the development of set of Cursor rules for Java space.
 
